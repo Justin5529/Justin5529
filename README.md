@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Linux 
 - 📫 How to reach me: justinvanr2001@gmail.com
-- ⚡ Fun fact: ...
+
 <!--
 **Justin5529/Justin5529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
