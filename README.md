@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?justin5529=anuraghazra&hide=contribs,prs)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justin5529&hide=contribs,prs)
 <!--
 **Justin5529/Justin5529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
