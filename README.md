@@ -19,11 +19,11 @@ My interests range from technology to design. I am also interested in video game
 - 💬 Ask me about Linux 
 - 📫 How to reach me: justinvanr2001@gmail.com
 <br>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="justin-vr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/justin-vr?trk=profile-badge">Justin Van Rangelrooij</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="justin-vr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/justin-vr?trk=profile-badge">Linkedin</a></div>
               
 
 <!--
